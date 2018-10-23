@@ -17,4 +17,4 @@ https://blog.naver.com/lovelotus319/221259325542
 ### 모집단을 구성 후 자제적으로 감시하게 한다.
 
 ## 그림 설명
-![default](https://user-images.githubusercontent.com/44366231/47359337-79065080-d707-11e8-92e1-7e6e678b4126.png)
+![default](https://user-images.githubusercontent.com/44366231/47360667-08f9c980-d70b-11e8-8dfc-51e915b75b61.png)
